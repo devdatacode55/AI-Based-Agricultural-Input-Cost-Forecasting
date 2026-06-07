@@ -106,6 +106,6 @@ Dataset Collection
 
 ## Authors
 
-B.Tech Project Team
+HCL Project Team -Hamdan ,Deepanshu, Indu
 
 AI-Based Agricultural Input Cost Forecasting
